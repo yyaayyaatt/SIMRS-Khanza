@@ -2598,7 +2598,11 @@ public class DlgPasien extends javax.swing.JDialog {
 
         MnViaDukcapilNikAceh.setBackground(new java.awt.Color(255, 255, 254));
         MnViaDukcapilNikAceh.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
+<<<<<<< HEAD
         MnViaDukcapilNikAceh.setForeground(new java.awt.Color(50,50,50));
+=======
+        MnViaDukcapilNikAceh.setForeground(new java.awt.Color(70, 70, 70));
+>>>>>>> parent of 67f69f2278... update 04082019
         MnViaDukcapilNikAceh.setIcon(new javax.swing.ImageIcon(getClass().getResource("/picture/category.png"))); // NOI18N
         MnViaDukcapilNikAceh.setText("Cek Via NIK Web Servis DUKCAPIL");
         MnViaDukcapilNikAceh.setName("MnViaDukcapilNikAceh"); // NOI18N
