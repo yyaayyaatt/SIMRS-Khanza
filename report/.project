@@ -8,4 +8,11 @@
 	</buildSpec>
 	<natures>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>rptBarcodeRawat_1.jrxml</name>
+			<type>1</type>
+			<location>/Users/fredd/Downloads/report_baru12082019/rptBarcodeRawat.jrxml</location>
+		</link>
+	</linkedResources>
 </projectDescription>

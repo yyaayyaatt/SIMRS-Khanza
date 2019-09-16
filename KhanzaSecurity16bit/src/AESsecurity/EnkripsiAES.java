@@ -31,7 +31,7 @@ public class EnkripsiAES {
 
             return new String(original);
         } catch (Exception ex) {
-            System.out.println("Ciluk Baaaaaaaa!!!!!");
+//            System.out.println("Ciluk Baaaaaaaa!!!!!");
         }
 
         return null;
@@ -48,7 +48,7 @@ public class EnkripsiAES {
             byte[] encrypted = cipher.doFinal(value.getBytes());
             return Base64.encodeBase64String(encrypted);
         } catch (Exception ex) {
-            System.out.println("Ciluk Baaaaaaaa!!!!!");
+//            System.out.println("Ciluk Baaaaaaaa!!!!!");
         }
 
         return null;

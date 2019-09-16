@@ -1,2 +1,12 @@
 eclipse.preferences.version=1
-encoding/rptBarcodeRM6.jrxml=UTF-8
+encoding/rptBarcodeRawat.jrxml=UTF-8
+encoding/rptBarcodeRawat_1.jrxml=UTF-8
+encoding/rptBridgingSEP4.jrxml=UTF-8
+encoding/rptDetailTindakanRalanDokterParamedis.jrxml=UTF-8
+encoding/rptDetailTindakanRalanParamedis.jrxml=UTF-8
+encoding/rptItemResep.jrxml=UTF-8
+encoding/rptKasirRalan.jrxml=UTF-8
+encoding/rptLembarObat.jrxml=UTF-8
+encoding/rptPeriksaLab.jrxml=UTF-8
+encoding/rptPeriksaRadiologi.jrxml=UTF-8
+encoding/rptRekapPendapatanRalan.jrxml=UTF-8
